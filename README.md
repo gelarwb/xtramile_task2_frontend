@@ -5,6 +5,9 @@ Using NextJs (Reactjs Framework)
 You can start editing the config by modifying `next.config.js`. 
 and point apiURL to: `https://localhost:5001/weather` if empty.
 
+```
+npm install
+```
 
 First, run the development server:
 
